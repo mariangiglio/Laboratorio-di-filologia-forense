@@ -41,7 +41,7 @@ Da questi file illegibili trovare tramite analisi dell’esadecimale quante più
 - Identificare il tipo di file
 - Rinominarlo aggiungendo l'estensione corretta
 - Provare a datarlo facendo ricerche su internet
-- Controllare ulteriori informazioni nascoste dopo la stringa di chiusura (metadati, parole chiave, informazioni personali residue, font, testo cancellato ecc.)
+- Controllare ulteriori informazioni nascoste dopo la stringa di fine testo **ETX** (metadati, parole chiave, informazioni personali residue, font, testo cancellato ecc.)
 
 
 ## Lista _✨Magic bytes_ ##
